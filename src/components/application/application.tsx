@@ -14,14 +14,14 @@ export const Application = () => {
               type="text"
               id="name"
               placeholder="Fullname"
-              value="Vishwas"
+              value="Jack"
               onChange={() => {}}
             />
           </div>
-          {/* <div>
+          <div>
             <label htmlFor="bio">Bio</label>
             <textarea id="bio" />
-          </div> */}
+          </div>
           <div>
             <label htmlFor="job-location">Job location</label>
             <select id="job-location">
